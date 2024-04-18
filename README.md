@@ -3,7 +3,7 @@
 <!--
 **saiteja13101310/saiteja13101310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Data Engineering Wallpaper](https://i.imgur.com/TqJrXk3.jpg)
+
 
 
 👋 Hi there! I'm Sai, a passionate data engineer with a drive for transforming raw data into meaningful insights. My journey in the world of data has been an exhilarating one, filled with challenges and opportunities to learn and grow.
@@ -20,6 +20,12 @@
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-square)
 ![Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?logo=apache-hive&logoColor=white&style=flat-square)
 ![HBase](https://img.shields.io/badge/-HBase-6DB33F?logo=apache-hbase&logoColor=white&style=flat-square)
+
+#### ETL Tools:
+![Talend](https://img.shields.io/badge/-Talend-1679A7?logo=talend&logoColor=white&style=flat-square)
+![Informatica](https://img.shields.io/badge/-Informatica-0F6AB4?logo=informatica&logoColor=white&style=flat-square)
+![Apache NiFi](https://img.shields.io/badge/-Apache%20NiFi-080A52?logo=apache-nifi&logoColor=white&style=flat-square)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-007A88?logo=apache-airflow&logoColor=white&style=flat-square)
 
 #### Cloud Services:
 ![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
