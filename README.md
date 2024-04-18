@@ -6,7 +6,7 @@
 
 
 
-👋 Hi there! I'm **ᔕᗩI**, a passionate data engineer with a drive for transforming raw data into meaningful insights. My journey in the world of data has been an exhilarating one, filled with challenges and opportunities to learn and grow.
+👋 Hi there! I'm **𝓢𝓪𝓲**, a passionate data engineer with a drive for transforming raw data into meaningful insights. My journey in the world of data has been an exhilarating one, filled with challenges and opportunities to learn and grow.
 
 💻 As an avid coder and problem solver, I thrive on diving into complex datasets, designing robust data pipelines, and crafting efficient solutions to real-world problems. From data wrangling to machine learning, I enjoy every aspect of the data lifecycle. 
 
