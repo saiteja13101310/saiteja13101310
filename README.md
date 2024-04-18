@@ -13,13 +13,13 @@
 🚀 Let's connect and collaborate on exciting data projects! Together, we can harness the power of data to drive innovation and make a difference in the world.
 
 #### Big Data Technologies:
-![Hadoop](https://img.shields.io/badge/-Hadoop-FF7F0E?logo=apache-hadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
-![Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?logo=apache-hive&logoColor=white)
-![HBase](https://img.shields.io/badge/-HBase-6DB33F?logo=apache-hbase&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-FF7F0E?logo=apache-hadoop&logoColor=white&style=flat-square)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white&style=flat-square)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-square)
+![Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?logo=apache-hive&logoColor=white&style=flat-square)
+![HBase](https://img.shields.io/badge/-HBase-6DB33F?logo=apache-hbase&logoColor=white&style=flat-square)
 
 #### Cloud Services:
-![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=google-cloud&logoColor=white)
+![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
