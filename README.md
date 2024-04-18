@@ -3,7 +3,8 @@
 <!--
 **saiteja13101310/saiteja13101310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Data Engineering Wallpaper](https://i.imgur.com/v0RAzvS.jpg)
+![Data Engineering Wallpaper](https://i.imgur.com/TqJrXk3.jpg)
+
 
 👋 Hi there! I'm Sai, a passionate data engineer with a drive for transforming raw data into meaningful insights. My journey in the world of data has been an exhilarating one, filled with challenges and opportunities to learn and grow.
 
